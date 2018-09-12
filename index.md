@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# FRB DAY at the University of Toronto
 
-You can use the [editor on GitHub](https://github.com/hsiuhsil/hsiuhsil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Date: Nov. 30th 2018 (Fri.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Time: 09 AM to 05 PM
 
-### Markdown
+Location: Room 1318A, 13th floor, McLennan Physical Laboratories, University of Toronto,60 St. George Street, Toronto, ON. M5S 3H8
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(Traffic information is [here](https://www.cita.utoronto.ca/visitor-info/getting-here/).)
 
-```markdown
-Syntax highlighted code block
+## Invited speakers
 
-# Header 1
-## Header 2
-### Header 3
+[Prof. Sarah Burke-Spolaor](https://sarahspolaor.faculty.wvu.edu/) (WVU/VLA)
 
-- Bulleted
-- List
+[Prof. Matt McQuinn](http://faculty.washington.edu/mcquinn/) (UW)
 
-1. Numbered
-2. List
+[Dr. Paul Scholz](http://astroherzberg.org/people/paul-scholz/) (DRAO) 
 
-**Bold** and _Italic_ and `Code` text
+[Dr. Ben Margalit](http://benmargalit.com/) (Berkeley/ Columbia)
 
-[Link](url) and ![Image](src)
-```
+## Program
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Time  | Agenda |
+| ------------- | ------------- |
+| Morning  | Opening, talks, and coffee  |
+| Noon     | Lunch  |
+| Afternoon| Talks, coffee, panel discussion|
 
-### Jekyll Themes
+## Registration
+Registration [Site](https://docs.google.com/forms/d/e/1FAIpQLSdMkaJhd-QOKtcbXuCjpMLz1-JHSrAzW9dBNBvUaKGUsIUoKQ/viewform)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hsiuhsil/hsiuhsil.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Registration deadline (EDT):  11:59 PM on Oct. 1st (Mon.)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## The Local Organizing Committee
+
+Please feel free to contact us, if there is any question.
+
+Prof. Ue-Li Pen <pen@cita.utoronto.ca>
+
+Prof. Bryan Gaensler <bgaensler@dunlap.utoronto.ca>
+
+Dr. Cherry Ng <cherry.ng@dunlap.utoronto.ca>
+
+Dr. Hsiu-Hsien Lin <hhlin@cita.utoronto.ca>
